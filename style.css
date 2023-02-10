@@ -1,9 +1,9 @@
-body{
+/* body{
     margin:0;
     padding:0;
     background: #222f32;
-}
-button{
+} */
+/* button{
     position: absolute;
     top: 50%;
     left: 50%;
@@ -14,4 +14,20 @@ button{
     font-size: 18px;
     text-transform: uppercase;
     cursor: pointer;
+} */
+body{
+background: green;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+div{
+    display: flex;
+    justify-content: center;
+
+}
+
+button{
+    height: 50px;
+    width: 50px;
+    margin: 10px;
 }
