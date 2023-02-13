@@ -9,3 +9,18 @@
 //   .then((data) => console.log(data));
 
 
+let btn1 = document.querySelector("#btn-1");
+let btn2 = document.querySelector("#btn-2");
+let btn3 = document.querySelector("#btn-3");
+
+btn1.addEventListener("click", () =>{
+    document.body.style.backgroundImage = "cakes-3.jpg"
+});
+
+btn1.addEventListener("click", () =>{
+    document.body.style.backgroundImage = "fly bird.jpg"
+});
+
+btn1.addEventListener("click", () =>{
+    document.body.style.backgroundImage = "snow math.jpeg"
+});
