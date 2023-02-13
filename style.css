@@ -1,21 +1,4 @@
-<<<<<<< HEAD
-body{
-    background: green;
-       background-repeat: no-repeat;
-       background-size: cover;
-    }
-    div{
-        display: flex;
-        justify-content: center;
-    
-    }
-    
-    button{
-        height: 50px;
-        width: 50px;
-        margin: 10px;
-    }
-=======
+
 /* body{
     margin:0;
     padding:0;
@@ -33,20 +16,3 @@ body{
     text-transform: uppercase;
     cursor: pointer;
 } */
-body{
-background: green;
-   background-repeat: no-repeat;
-   background-size: cover;
-}
-div{
-    display: flex;
-    justify-content: center;
-
-}
-
-button{
-    height: 50px;
-    width: 50px;
-    margin: 10px;
-}
->>>>>>> 08323bcc11d68fda1f8af8d6acd80a6445fc774b
