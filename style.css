@@ -16,3 +16,19 @@
     text-transform: uppercase;
     cursor: pointer;
 } */
+body{
+     background-color: blue;
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+
+div{
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    height: 50px;
+    width: 50px;
+    margin: 10px;
+}

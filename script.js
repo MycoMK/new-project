@@ -16,3 +16,18 @@
 // let body = document.querySelector("body").style.background = "color"[i];
 //  })
 
+let btn1 = document.querySelector("#btn-1");
+let btn2 = document.querySelector("#btn-2");
+let btn3 = document.querySelector("#btn-3");
+
+btn1.addEventListener('click',() =>{
+document.body.style.backgroundImage = "url('Images/1.jpeg')";
+});
+
+btn2.addEventListener('click',() =>{
+document.body.style.backgroundImage = "url('Images/2.jpeg')";
+});
+
+btn3.addEventListener('click',() =>{
+document.body.style.backgroundImage = "url('Images/3.jpeg')";
+}); 
