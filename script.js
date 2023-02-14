@@ -24,28 +24,28 @@ let btn5 = document.querySelector("#btn-5");
 let btn6 = document.querySelector("#btn-6");
 
 btn1.addEventListener('click',() =>{
-document.body.style.backgroundImage = "url('Images/1.jpeg')";
+document.body.style.backgroundImage = `url('1.jpeg')`;
 });
 
 btn2.addEventListener('click',() =>{
-document.body.style.backgroundImage = "url('Images/2.jpeg')";
+document.body.style.backgroundImage = `url('2.jpeg')`;
 });
 
 btn3.addEventListener('click',() =>{
-document.body.style.backgroundImage = "url('Images/3.jpeg')";
+document.body.style.backgroundImage = `url('3.jpeg')`;
 }); 
 
-btn3.addEventListener('click',() =>{
-    document.body.style.backgroundImage = "url('Images/4.jpeg')";
+btn4.addEventListener('click',() =>{
+    document.body.style.backgroundImage = `url('4.jpeg')`;
 }); 
 
-btn3.addEventListener('click',() =>{
-document.body.style.backgroundImage = "url('Images/5.jpeg')";
+btn5.addEventListener('click',() =>{
+document.body.style.backgroundImage = `url('5.jpeg')`;
 }); 
 
 
 
 
-btn3.addEventListener('click',() =>{
-document.body.style.backgroundImage = "url('https://stock.adobe.com/search?k=beach&asset_id=64168411')";
-}); 
+// btn6.addEventListener('click',() =>{
+// document.body.style.backgroundImage = url('https://stock.adobe.com/search?k=beach&asset_id=64168411');
+// }); 
