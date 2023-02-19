@@ -21,7 +21,7 @@ let btn2 = document.querySelector("#btn-2");
 let btn3 = document.querySelector("#btn-3");
 let btn4 = document.querySelector("#btn-4");
 let btn5 = document.querySelector("#btn-5");
-let btn6 = document.querySelector("#btn-1");
+
 
 btn1.addEventListener('mouseover',() =>{
 document.body.style.backgroundImage = `url('1.jpeg')`;
