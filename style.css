@@ -1,3 +1,4 @@
+
 /* body{
     margin:0;
     padding:0;
@@ -16,14 +17,15 @@
     cursor: pointer;
 } */
 body{
-background: green;
-   background-repeat: no-repeat;
-   background-size: cover;
+
+     background-image: url('1.jpeg');
+     background-repeat: no-repeat;
+     background-size: cover;
 }
+
 div{
     display: flex;
     justify-content: center;
-
 }
 
 button{
