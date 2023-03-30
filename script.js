@@ -46,23 +46,23 @@ let btn5 = document.querySelector("#btn-5");
 
 // let btn6 = document.querySelector("#btn-1");
 
-btn1.addEventListener('mouseover',() =>{
+btn1.addEventListener('click',() =>{
 document.body.style.backgroundImage = `url('1.jpeg')`;
 });
 
-btn2.addEventListener('mouseover',() =>{
+btn2.addEventListener('click',() =>{
 document.body.style.backgroundImage = `url('2.jpeg')`;
 });
 
-btn3.addEventListener('mouseover',() =>{
+btn3.addEventListener('click',() =>{
 document.body.style.backgroundImage = `url('3.jpeg')`;
 }); 
 
-btn4.addEventListener('mouseover',() =>{
+btn4.addEventListener('click',() =>{
     document.body.style.backgroundImage = `url('4.jpeg')`;
 }); 
 
-btn5.addEventListener('mouseover',() =>{
+btn5.addEventListener('click',() =>{
 
 document.body.style.backgroundImage = `url('5.jpeg')`;
 }); 
